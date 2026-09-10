@@ -1,0 +1,34 @@
+.library {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.book-card {
+    width: 100px;
+    height: 150px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(180, 105, 59);
+    padding: 10px;
+}
+
+.form {
+    display: flex;
+}
+
+.new-book {
+    background-color: darkseagreen;
+    margin: 10px;
+}
+
+.title {
+    margin: 10px;
+    color: cadetblue;
+}
+
+.pop-up {
+    
+}
